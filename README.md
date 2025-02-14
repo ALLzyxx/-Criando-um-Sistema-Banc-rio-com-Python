@@ -1,4 +1,4 @@
-# -Criando-um-Sistema-Banc-rio-com-Python
+# Criando-um-Sistema-Banc-rio-com-Python
 
 Objetivo geral - Criar um sistema bancario com as operações: sacar, depositar e vizualizar extrato.
 
